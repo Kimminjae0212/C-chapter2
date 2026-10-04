@@ -11,3 +11,7 @@
 ## 2-3
 ### 실행 결과
 <img width="1111" height="153" alt="image" src="https://github.com/user-attachments/assets/7973ed7a-2ae1-4a1a-97c8-6cb708355c68" />
+
+## 2-4
+### 실행 결과
+<img width="1103" height="138" alt="image" src="https://github.com/user-attachments/assets/10774a91-7ed2-43c0-94e2-c0ed322b0c42" />
